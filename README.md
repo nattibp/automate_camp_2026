@@ -1,7 +1,7 @@
 # automate_camp_2026
-
-
 NNNNNN
+
+
 
 
 
@@ -22,3 +22,6 @@ NNNNNN
 
 
 ////////////////------
+
+
+NNNNNN
